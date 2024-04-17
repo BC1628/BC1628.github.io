@@ -38,6 +38,7 @@ Main Research:
 
 ### 4. Yonsei University, South Korea
 **Bachelor’s in biomedical laboratory science (Mar. 2005 – Feb. 2012)**
+
 (Mandatory Military service March 2006 - July 2008) 
 
 # Skills
