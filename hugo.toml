@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'BC practice'
+title = 'BC website practice'
+![Image](/images/Photo.jpg)
 theme = 'PaperMod'
