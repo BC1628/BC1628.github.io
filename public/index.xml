@@ -2,27 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BC practice</title>
-    <link>http://localhost:54195/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on BC practice</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2024 00:48:14 -0700</lastBuildDate>
-    <atom:link href="http://localhost:54195/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello Word</title>
-      <link>http://localhost:54195/posts/hello-word/</link>
-      <pubDate>Mon, 15 Apr 2024 00:48:14 -0700</pubDate>
-      <guid>http://localhost:54195/posts/hello-word/</guid>
-      <description>Hello World This is bold test
-This is italics
-2nd level 3rd Etc </description>
-    </item>
+    <lastBuildDate>Mon, 15 Apr 2024 12:37:11 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publication</title>
-      <link>http://localhost:54195/posts/publcation/</link>
+      <link>http://localhost:1313/posts/publication/</link>
       <pubDate>Mon, 15 Apr 2024 00:48:14 -0700</pubDate>
-      <guid>http://localhost:54195/posts/publcation/</guid>
-      <description>Selected Publication Metabolic disease/Epigenetics Jung BC, Dongjoo You, Ikjun Lee, Daofeng Li, Rebecca Schill, Katherine Ma, Amy Jung, Anna Pi, Zehan Song, Wei-Chieh Mu, Ting Wang, Ormond A. MacDougald, Alexander Banks, Sona Kang (2023). TET3 is a critical epigenetic regulator of white adipose development and diet-induced remodeling. Cell Rep. &amp;lt;IF=8.8&amp;gt; Hai P Nguyen*; Sneha Damal Villivalam*; Jung BC*; Dongjoo You; Frances Lin; Danielle Yi; Anna Pi; Katherine Ma; Sunhee Jung; Sang-Hee Park; Cholsoon Jang; Hei Sook Sul; Sona Kang (2022).</description>
+      <guid>http://localhost:1313/posts/publication/</guid>
+      <description>Selected Publication Metabolic disease/Epigenetics Jung BC, You D, Lee I, Li D, Schill RL, Ma K, Pi A, Song Z, Mu WC, Wang T, MacDougald OA, Banks AS and Kang S (2023). TET3 is a critical epigenetic regulator of white adipose development and diet-induced remodeling. Cell Rep. &amp;lt;IF=8.8&amp;gt; Nguyen HP*, Villivalam SD*, Jung BC*, You D, Lin F, Yi D, Pi A, Ma K, Jung S, Park SH, Jang C, Sul HS and Kang S (2022).</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/posts/cv/</link>
+      <pubDate>Mon, 15 Apr 2024 12:37:11 -0700</pubDate>
+      <guid>http://localhost:1313/posts/cv/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
