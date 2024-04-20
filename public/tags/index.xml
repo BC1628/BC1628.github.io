@@ -2,10 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on BC website practice</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/BC1628/BC1628.github.io/tags/</link>
     <description>Recent content in Tags on BC website practice</description>
+    <image>
+      <title>BC website practice</title>
+      <url>http://localhost:1313/BC1628/BC1628.github.io/images/papermod-cover.png</url>
+      <link>http://localhost:1313/BC1628/BC1628.github.io/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- 0.124.1</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <atom:link href="http://localhost:1313/BC1628/BC1628.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

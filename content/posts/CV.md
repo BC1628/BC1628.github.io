@@ -1,10 +1,11 @@
 +++
 title = 'CV'
 date = 2024-04-15T12:37:11-07:00
+weight= 1
 +++
 
 
-![Image](/images/Photo.jpg)
+![Image](/images/Photo.jpg#center)
 
 # Summary
 •	Passionate bench scientist with over 10 years of experience in studying the broad area in disease models, which includes metabolic diseases, neuroscience, cancer and, has provided me with a diverse skillset that I can apply to my future research. Exceptional proficiencies in Molecular biology & Biochemistry including but not limited to Western blot, qPCR, ChIP, Cloning, establishing knockout cell line using CRISPR/Cas9 lentivirus delivery system, and protein purification.

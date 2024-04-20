@@ -2,25 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BC website practice</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/BC1628/BC1628.github.io/</link>
     <description>Recent content on BC website practice</description>
+    <image>
+      <title>BC website practice</title>
+      <url>http://localhost:1313/BC1628/BC1628.github.io/images/papermod-cover.png</url>
+      <link>http://localhost:1313/BC1628/BC1628.github.io/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- 0.124.1</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 15 Apr 2024 12:37:11 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publication</title>
-      <link>http://localhost:1313/posts/publication/</link>
-      <pubDate>Mon, 15 Apr 2024 00:48:14 -0700</pubDate>
-      <guid>http://localhost:1313/posts/publication/</guid>
-      <description>Selected Publication Metabolic disease/Epigenetics Jung BC, You D, Lee I, Li D, Schill RL, Ma K, Pi A, Song Z, Mu WC, Wang T, MacDougald OA, Banks AS and Kang S (2023). TET3 is a critical epigenetic regulator of white adipose development and diet-induced remodeling. Cell Rep. &amp;lt;IF=8.8&amp;gt; Nguyen HP*, Villivalam SD*, Jung BC*, You D, Lin F, Yi D, Pi A, Ma K, Jung S, Park SH, Jang C, Sul HS and Kang S (2022).</description>
-    </item>
+    <atom:link href="http://localhost:1313/BC1628/BC1628.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/posts/cv/</link>
+      <link>http://localhost:1313/BC1628/BC1628.github.io/posts/cv/</link>
       <pubDate>Mon, 15 Apr 2024 12:37:11 -0700</pubDate>
-      <guid>http://localhost:1313/posts/cv/</guid>
+      <guid>http://localhost:1313/BC1628/BC1628.github.io/posts/cv/</guid>
       <description>Summary •	Passionate bench scientist with over 10 years of experience in studying the broad area in disease models, which includes metabolic diseases, neuroscience, cancer and, has provided me with a diverse skillset that I can apply to my future research. Exceptional proficiencies in Molecular biology &amp;amp; Biochemistry including but not limited to Western blot, qPCR, ChIP, Cloning, establishing knockout cell line using CRISPR/Cas9 lentivirus delivery system, and protein purification.</description>
+    </item>
+    <item>
+      <title>Publication</title>
+      <link>http://localhost:1313/BC1628/BC1628.github.io/posts/publication/</link>
+      <pubDate>Mon, 15 Apr 2024 00:48:14 -0700</pubDate>
+      <guid>http://localhost:1313/BC1628/BC1628.github.io/posts/publication/</guid>
+      <description>Selected Publication Metabolic disease/Epigenetics Jung BC, You D, Lee I, Li D, Schill RL, Ma K, Pi A, Song Z, Mu WC, Wang T, MacDougald OA, Banks AS and Kang S (2023). TET3 is a critical epigenetic regulator of white adipose development and diet-induced remodeling. Cell Rep. &amp;lt;IF=8.8&amp;gt; Nguyen HP*, Villivalam SD*, Jung BC*, You D, Lin F, Yi D, Pi A, Ma K, Jung S, Park SH, Jang C, Sul HS and Kang S (2022).</description>
     </item>
   </channel>
 </rss>
